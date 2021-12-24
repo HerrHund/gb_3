@@ -10,6 +10,7 @@ city = input('your city: ')
 email = input('your email: ')
 phone = input('your phone: ')
 
+
 def userInfo(a, b, c, d, e, f):
     print('user: ' + a + ' ' + b + ' ' + c + ' ' + d + ' ' + e + ' ' + f)
 

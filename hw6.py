@@ -21,5 +21,6 @@ def upperWords(words):
         firstLet = strWord[:1].upper()
         word = firstLet + strWord[1:]
         print(word)
+   
         
 upperWords(input('words is: '))

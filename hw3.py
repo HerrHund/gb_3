@@ -20,4 +20,5 @@ def higherSum(a, b, c):
 
     print(sum(argSum))
 
+
 higherSum(a, b ,c)
