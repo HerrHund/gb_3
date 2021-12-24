@@ -25,4 +25,5 @@ def sum():
         print(f'Нынешняя сумма {resultSum}')
     print(f'Окончательная сумма {resultSum}')
 
+
 sum() 

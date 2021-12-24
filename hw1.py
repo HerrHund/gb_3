@@ -3,6 +3,7 @@
 firstNum = int(input('first num: '))
 secondNum = int(input('second num: '))
 
+
 def delete(a, b):
     try:
         c = a // b
